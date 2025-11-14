@@ -1,28 +1,14 @@
 #EXTM3U
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9147" tvg-logo="http://epg.one/img/9147.png",Muz TV AZ
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2N6hAwfrGVY0c9gEP_466VRQFBol3cAh9l_TID63hkH9B-d3S54pw8ne4J8tzPlGJA&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2635" tvg-logo="http://epg.one/img/2635.png",ARB TV HD AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2O05tATsyLkk-qaJxzpNPZT5F7VHWaN92Pi1LD_iwDFbDMRLcb73uxi5IWxhQUDaxQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9128" tvg-logo="http://epg.one/img/9128.png",ATV Cinema AZ
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2C8-0xronpO39OWcn0-eCnOBflkzgUxV9iu0WRa7hYA-3ib-pmeEmX95OT6JXndCPA&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9764" tvg-logo="http://epg.one/img/9764.png",Premier Sports 2 HD UK
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2NxDfodfQvQFWxdVFduFzbw1-vQQ_WpcT6ZmOflu0r1qo2l-geUUV9hZg2Z_V6r67g&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9130" tvg-logo="http://epg.one/img/9130.png",ATV Vivace AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2FpabWBgRz9EGpKmCpX72zDdyJdU8PtgrG3AckulHNQPJ6L3vizXNKB1_bxVzLviFA&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9131" tvg-logo="http://epg.one/img/9131.png",Show Plus TV AZ
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2FO6nR-xzKAkTYqbmXTLljpHJG5ncrlqcC_SAoNQMg86nawc3cpcKgq5oVDHmcv9eQ&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9132" tvg-logo="http://epg.one/img/9132.png",VIP TV AZ
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2DC4xfOSf_rnb5Hr0e4bfdaOYDwiGMqQaCLZ53bcApLrFyS4lllSnCmNtP5s72vaXg&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9144" tvg-logo="http://epg.one/img/9144.png",Baku TV AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2OcITmIqZYJuXHd3QnINe-m1o4kVKYk1D1MlPpL_SfOSOyLteTsnpevhHIUL3rf0pg&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9133" tvg-logo="http://epg.one/img/9133.png",MCJ Shopping AZ
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2G_doMO69vHhO88eIv9M9dUu3JSG2LSjtdR5Cm3gGnZcb8cTaNUc9ZuxZK0DbcJsxw&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9134" tvg-logo="http://epg.one/img/9134.png",ATV HD AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2Bi6AGz0BZGtZAMwJTkpdiM8ultceYvKMtD6T5gB1zWFfQCVCr1VWyYpiSJiJamA9Q&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="6013" tvg-logo="http://epg.one/img/6013.png",Idman TV HD AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2EYK2SbkZQC71R3U4Shm82q3tY_WGF3NL_NtfdHDOV5hRL_9nnOdxF9wISjrPb83Fg&token=dGVzdDU6dGVzdDU=#/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="9136" tvg-logo="http://epg.one/img/9136.png",KATV1 AZ
-http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2NC2704vOhaLaklhEQhr3zPiYXLunF6OlNA4nrdFvNXYkiSRCu4G-X8FF5QyH4yaAw&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2551" tvg-logo="http://epg.one/img/2551.png",ARB 24 HD AZ
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2KIZEyHfhuPUH2IPX9dV9hu3P1kRiFG1FeNTPr_iD_LF7msiixLvzgtlW26o5f3SOg&token=dGVzdDU6dGVzdDU=#/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2552" tvg-logo="http://epg.one/img/2552.png",ARB Gunes HD AZ
@@ -84,6 +70,7 @@ http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdY
 #EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img/2051.png",Матч ТВ HD
 
 http://185.221.213.254/live/stream2.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd_L97P3LAOPvNqGN5b5El_oMu2bKrqbSJ3EleOIPAfE2FxdZqGmnzEeSAX9oM3Az_fpiYR9pvI10WXFksxH4lf-p9lSpYFuDzHIfdJ0LFDziw&token=dGVzdDU6dGVzdDU=#/index.m3u8
+
 
 
 
